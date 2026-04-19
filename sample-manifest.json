@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4f595eec-7c64-46f9-98cc-f6d698b257a0",
+  "export_job_id": "a3c2476a-3dbb-404f-955a-3554e627f1ad",
   "id_short": 970238,
-  "published_at": "2026-04-16T19:38:23Z",
+  "published_at": "2026-04-19T19:23:43Z",
   "repo_name": "all-restaurants-in-hammond-indiana-us-sample-970238",
   "sample_asset_name": "beamstation_970238_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/970238/beamstation_970238_restaurants-us-in_SAMPLE_DIST.csv",
   "sample_records": 28,
   "sample_sha256": "34ac3a838b4cc0dba3f8c995829b90933f71cf1a80d7755857dee29b10e9b27d",
   "sample_size_bytes": 107971,
-  "total_records": 315
+  "total_records": 284
 }
