@@ -9,9 +9,9 @@
 | Dataset ID | `970238` |
 | Location | Hammond |
 | Category | Restaurants |
-| Full dataset size | 315 records |
-| Free sample size | 28 records (8.89%) |
-| Last export | 2026-04-09T14:37:39.372509+00:00 |
+| Full dataset size | 284 records |
+| Free sample size | 28 records (9.86%) |
+| Last export | 2026-04-16T16:06:05.291182+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hammond-indiana-us-sample-970238/releases/download/sample-latest/beamstation_970238_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
