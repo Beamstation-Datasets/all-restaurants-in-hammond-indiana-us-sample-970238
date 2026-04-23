@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Hammond, Indiana. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Hammond, Indiana, US",
-  "export_job_id": "a3c2476a-3dbb-404f-955a-3554e627f1ad",
+  "export_job_id": "711e14b5-5bed-4f51-8394-c326e13052cd",
   "github_org": "Beamstation-Datasets",
   "id_short": 970238,
   "location_name": "Hammond",
   "location_type": "city",
   "repo_name": "all-restaurants-in-hammond-indiana-us-sample-970238",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/970238/beamstation_970238_restaurants-us-in_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 9.96,
   "sample_records": 28,
-  "sample_sha256": "34ac3a838b4cc0dba3f8c995829b90933f71cf1a80d7755857dee29b10e9b27d",
-  "sample_size_bytes": 107971,
-  "total_records": 284,
-  "updated_at": "2026-04-16T16:06:05.291182+00:00"
+  "sample_sha256": "93ae62912633046061116ebe83b2de9f7f3cff8be974a99c6aaebfeb20447e4b",
+  "sample_size_bytes": 108774,
+  "total_records": 281,
+  "updated_at": "2026-04-23T13:43:53.732958+00:00"
 }
