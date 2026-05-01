@@ -1,6 +1,6 @@
 # All Restaurants in Hammond, Indiana, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `970238` |
 | Location | Hammond |
 | Category | Restaurants |
-| Full dataset size | 281 records |
-| Free sample size | 28 records (9.96%) |
-| Last export | 2026-04-23T13:43:53.732958+00:00 |
+| Full dataset size | 325 records |
+| Free sample size | 32 records (9.85%) |
+| Last export | 2026-05-01T01:01:33.379200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-hammond-indiana-us-sample-970238/releases/download/sample-latest/beamstation_970238_restaurants-us-in_SAMPLE_DIST.csv) |
 
 ## What is in this sample
